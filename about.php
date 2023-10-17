@@ -107,7 +107,9 @@ if(isset($_COOKIE['user_id'])){
             </div>
          </div>
          <p>Effortlessly managing my home has never been easier! 
-            This house management system has truly transformed the way I handle tasks and organize my daily life.</p>
+            This house management system has truly transformed 
+            the way I handle tasks and organize my daily life 
+            the way I handle tasks and organize my daily.</p>
       </div>
 
       <div class="box">
@@ -125,7 +127,8 @@ if(isset($_COOKIE['user_id'])){
             </div>
          </div>
          <p>I can't imagine my life without this incredible house management system. 
-            It simplifies everything from scheduling maintenance tasks to tracking expenses.</p>
+            It simplifies everything from scheduling maintenance tasks to tracking expenses.
+            the way I handle tasks and organize</p>
       </div>
 
       <div class="box">
@@ -161,7 +164,8 @@ if(isset($_COOKIE['user_id'])){
             </div>
          </div>
          <p>I'm blown away by the efficiency and convenience of this house management system. 
-            It streamlines communication with service providers.</p>
+            It streamlines communication with service providers.
+            the way I handle tasks and organize my daily life</p>
       </div>
 
       <div class="box">
@@ -197,7 +201,60 @@ if(isset($_COOKIE['user_id'])){
             </div>
          </div>
          <p>Thanks to this house management system, I feel in control of my home like never before. 
-            It keeps me informed, organized, and on top of all the important tasks.</p>
+            It keeps me informed, organized, and on top of all the important tasks.
+            the way I handle tasks and organize my daily</p>
+      </div>
+      <div class="box">
+         <div class="user">
+            <img src="images/pic-6.png" alt="">
+            <div>
+               <h3>Winnie Akinyi</h3>
+               <div class="stars">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star-half-alt"></i>
+               </div>
+            </div>
+         </div>
+         <p>Thanks to this house management system, I feel in control of my home like never before. 
+            It keeps me informed, organized, and on top of all the important tasks.
+            the way I handle tasks and organize my daily</p>
+      </div>
+      <div class="box">
+         <div class="user">
+            <img src="images/pic-5.png" alt="">
+            <div>
+               <h3>Charles Jeckton</h3>
+               <div class="stars">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star-half-alt"></i>
+               </div>
+            </div>
+         </div>
+         <p>I love how customizable this house management system is. It adapts to my unique needs and preferences, 
+            allowing me to tailor it to my home and lifestyle effortlessly.</p>
+      </div>
+      <div class="box">
+         <div class="user">
+            <img src="images/pic-4.png" alt="">
+            <div>
+               <h3>Grace Mapengo</h3>
+               <div class="stars">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star-half -alt"></i>
+               </div>
+            </div>
+         </div>
+         <p>I love how customizable this house management system is. It adapts to my unique needs and preferences, 
+            allowing me to tailor it to my home and lifestyle effortlessly.</p>
       </div>
 
    </div>

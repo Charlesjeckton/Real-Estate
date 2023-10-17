@@ -381,7 +381,7 @@ include 'components/save_send.php';
       <div class="box">
          <img src="images/icon-6.png" alt="">
          <h3>24/7 service</h3>
-         <p>Our commitment to you extends beyond regular business hours. </p>
+         <p> Our commitment to you extends beyond your expectation and regular business hours. </p>
       </div>
 
    </div>
